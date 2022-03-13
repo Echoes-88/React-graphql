@@ -11,6 +11,6 @@ export default {
   dbName: 'lireddit',
   type: 'postgresql',
   user: 'lireddit',
-  password: 'Tangerine42',
+  password: '123456',
   debug: !__prod__
 }
